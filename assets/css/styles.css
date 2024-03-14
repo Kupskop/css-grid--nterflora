@@ -105,3 +105,9 @@ header p {
   padding-left: 262px;
   padding-top: 10px;
 }
+
+#Bestil {
+  grid-area: 2/1/3/2;
+  display: grid;
+  grid-template-columns: 145px 290px 150px 115px 61px 222px 16px 222px 48px;
+}
